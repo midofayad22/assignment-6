@@ -1090,7 +1090,7 @@ h4.tite {
   display: flex;
   flex-direction: column;
   padding: 32px;
-  background-color: var(--main-color);
+  background: linear-gradient(110deg, var(--main-color) 0%, #7bea4e 52%, #00d978 100%);
   border-radius: 20px;
   transition: var(--transition) ease-in-out;
 }
