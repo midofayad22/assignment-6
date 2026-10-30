@@ -1141,7 +1141,7 @@ h4.tite {
     5px 4px 14px var(--main-color);
 }
 #contact-us .community span:hover {
-  background-color: var(--main-color);
+  background-color: linear-gradient(110deg, var(--main-color) 0%, #7bea4e 52%, #00d978 100%);
   color: var(--secondary-color);
 }
 
